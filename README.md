@@ -1,3 +1,5 @@
+This is a copy in case the original goes away, DO NOT USE UNLESS THE ORIGINAL REPO IS GONE
+
 # SMG GBA
 
 Release of my GBA SMG Project. It uses the engine from Joshua Barettos https://github.com/zesterer as a base and adds a lot of new features. It also implements code from the Galaxy Decomp https://github.com/SMGCommunity/Petari 
